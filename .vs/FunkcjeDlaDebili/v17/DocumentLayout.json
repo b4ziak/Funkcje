@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bazia\\source\\repos\\FunkcjeDlaDebili\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8142AE-2825-4CFA-B603-095072082F95}|FunkcjeDlaDebili\\FunkcjeDlaDebili.csproj|c:\\users\\bazia\\source\\repos\\funkcjedladebili\\funkcjedladebili\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8142AE-2825-4CFA-B603-095072082F95}|FunkcjeDlaDebili\\FunkcjeDlaDebili.csproj|solutionrelative:funkcjedladebili\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8142AE-2825-4CFA-B603-095072082F95}|FunkcjeDlaDebili\\FunkcjeDlaDebili.csproj|c:\\users\\bazia\\source\\repos\\funkcjedladebili\\funkcjedladebili\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E8142AE-2825-4CFA-B603-095072082F95}|FunkcjeDlaDebili\\FunkcjeDlaDebili.csproj|solutionrelative:funkcjedladebili\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bazia\\source\\repos\\FunkcjeDlaDebili\\FunkcjeDlaDebili\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FunkcjeDlaDebili\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bazia\\source\\repos\\FunkcjeDlaDebili\\FunkcjeDlaDebili\\MainWindow.xaml",
+              "RelativeToolTip": "FunkcjeDlaDebili\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-07T17:32:09.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bazia\\source\\repos\\FunkcjeDlaDebili\\FunkcjeDlaDebili\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FunkcjeDlaDebili\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bazia\\source\\repos\\FunkcjeDlaDebili\\FunkcjeDlaDebili\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FunkcjeDlaDebili\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:32:05.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
